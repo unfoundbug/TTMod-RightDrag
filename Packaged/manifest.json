@@ -1,0 +1,7 @@
+{
+    "name": "RightDrag",
+    "version_number": "0.0.3",
+    "website_url": "https://github.com/unfoundbug",
+    "description": "Allows the player to hold right click when dragging a stack of items leaving only a single item behind each slot dragged over.",
+    "dependencies": [ "BepInEx-BepInExPack-5.4.2100" ]
+}
